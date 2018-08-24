@@ -38,7 +38,7 @@
 //
 // Servos
 //
-#define SERVO0_PIN         5
+#define SERVO0_PIN         4
 
 //
 // Limit Switches
@@ -83,6 +83,14 @@
 #define E2_STEP_PIN        29
 #define E2_DIR_PIN         28
 #define E2_ENABLE_PIN      39
+
+//
+// TMC2130
+//
+#define X_CS_PIN           30 // PC7
+#define Y_CS_PIN           31 // PC6
+#define Z_CS_PIN           15
+#define E0_CS_PIN          14
 
 //
 // Temperature Sensors
