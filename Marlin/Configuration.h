@@ -387,7 +387,7 @@
   /* #define DEFAULT_Kd 114 */
 
   // AM8
-  #define DEFAUL_Kp  12.32
+  #define DEFAULT_Kp  12.32
   #define DEFAULT_Ki  0.57
   #define DEFAULT_Kd 66.38
 
